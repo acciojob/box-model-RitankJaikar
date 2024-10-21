@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.parent {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	width: 400px;
+	padding: 24px;
+	background-color: lightgray;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+
+.circle {
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	background-color: white;
+}
+
+.green {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+
+
+
+
+
